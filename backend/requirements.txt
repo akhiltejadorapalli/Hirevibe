@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+python-multipart
+PyJWT
+scikit-learn
+pypdf
+PyPDF2
+python-docx
